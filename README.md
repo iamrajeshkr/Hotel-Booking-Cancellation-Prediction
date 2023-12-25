@@ -35,7 +35,7 @@ This project focuses on addressing the challenges of imbalanced datasets in clas
 ## Files and Structure
 
 2. **Datasets:**
-   - `imbalanced_dataset.csv`: The main dataset containing imbalanced classification data.
+   - `hotel_bookings.csv`: The main dataset containing imbalanced classification data.
 
 3. **Data Dictionary:**
    - List of the name of the features and any relevant keywords are explained in `data_dictionary.txt`.
